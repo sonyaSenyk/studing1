@@ -1,0 +1,30 @@
+html{
+background-image: url("https://img.freepik.com/free-vector/neon-lights-background-theme_52683-44625.jpg?size=626&ext=jpg");
+
+    background-color: #242423;
+
+}
+
+
+
+
+h1 {
+    color: #f2f6ff;
+}
+p {
+    color: #f2f6ff;
+}
+h3 {
+    color: #f2f6ff;
+}
+p i{
+    color: red;
+}
+
+p i:hover{
+    border-bottom: red solid 1px;
+}
+
+.toCenter{
+    text-align: center;
+}
